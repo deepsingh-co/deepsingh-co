@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Java , Kotlin And Frame work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email deepsinghanirudh1@gmail.com
-- 😄 Pronouns: he/hum
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: solving problem
 
 <!---
