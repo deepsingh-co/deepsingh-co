@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @deepsingh-co
-- 👀 I’m interested in App Developoment
+- 👋 Hi, I’m Anurudh singh @deepsingh-co
+- 👀 I’m interested in web Developoment
 - 🌱 I’m currently learning  Java , Kotlin And Frame work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email deepsinghanirudh1@gmail.com
